@@ -4,3 +4,4 @@ Test squash merge: The third commit in Test branch
 
 Test NO squash merge: commit 1
 Test NO squash merge: commit 2
+
