@@ -2,4 +2,5 @@ Test squash merge: The first commit in Test branch
 Test squash merge: The second commit in Test branch 
 Test squash merge: The third commit in Test branch 
 
-Test squash merge: The third commit in Test branch 
+Test NO squash merge: commit 1
+Test NO squash merge: commit 2
