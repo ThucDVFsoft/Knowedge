@@ -6,4 +6,5 @@ Test NO squash merge: commit 1
 Test NO squash merge: commit 2
 
 test link with codebeamer
+test link with codebeamer
 
